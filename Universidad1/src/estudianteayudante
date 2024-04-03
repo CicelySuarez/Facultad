@@ -1,0 +1,11 @@
+#include "estudianteayudante."
+
+EstudianteAyudante::EstudianteAyudante()
+{
+    //ctor
+}
+
+EstudianteAyudante::~EstudianteAyudante()
+{
+    //dtor
+}

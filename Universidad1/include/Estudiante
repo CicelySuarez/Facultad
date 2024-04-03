@@ -1,0 +1,16 @@
+#ifndef ESTUDIANTE_
+#define ESTUDIANTE_
+
+
+class Estudiante
+{
+    public:
+        Estudiante();
+        virtual ~Estudiante();
+
+    protected:
+
+    private:
+};
+
+#endif // ESTUDIANTE_

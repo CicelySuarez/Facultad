@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1712175057 source:c:\users\cicely suárez hernán\desktop\universidad1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"estudiante.h"
+	"estudianteayudante.h"
+	"facultad.h"
+
+1712175057 c:\users\cicely suárez hernán\desktop\universidad1\include\estudiante.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1712175057 c:\users\cicely suárez hernán\desktop\universidad1\include\estudianteayudante.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"estudiante.h"
+
+1712175057 c:\users\cicely suárez hernán\desktop\universidad1\include\facultad.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"estudiante.h"
+
+1712175057 source:c:\users\cicely suárez hernán\desktop\universidad1\src\estudiante.cpp
+	"estudiante.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1712175057 source:c:\users\cicely suárez hernán\desktop\universidad1\src\estudianteayudante.cpp
+	"estudianteayudante.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1712175251 source:c:\users\cicely suárez hernán\desktop\universidad1\src\facultad.cpp
+	"facultad.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"estudiante.h"
+	"estudianteayudante.h"
+
